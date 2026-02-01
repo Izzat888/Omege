@@ -1,0 +1,26 @@
+{
+    "hero": {
+        "demos": "Namoyishlar",
+        "pages": "Sahifalar",
+        "support": "Yordam"
+    },
+    "header": {
+        "title": "Har bir ohangdan zavqlaning!",
+        "text": "Iphone, Ipad va Android foydalanuvchilari uchun, mahsulotingizning firmware dasturini Bose Connect ilovasi orqali yangilanganligiga ishonch hosil qiling.",
+        "btn": "Savatga qo‘shish"
+    },
+    "header2": {
+        "title": "Musiqani ilgari hech qachon his qilmagan kabi his eting",
+        "text": "Zamonaviy dizayn va qulaylik bilan yuqori sifatli ovoz."
+    },
+    "header3": {
+        "title": "Premium sifatli ovoz tajribasi",
+        "text": "Shovqinni yo‘qotish va chuqur bass texnologiyasi."
+    },
+    "nav": {
+        "title": "Har safar shovqinsiz sifatli ovoz",
+        "text": "Omega bilan o‘ziga xos landing sahifalarni yarating, ular boshqa har qanday saytga qaraganda ko‘proq tashrif buyuruvchilarni jalb qiladi. Ko‘plab noyob bloklar bilan, kod yozmasdan sahifa yaratishingiz mumkin.",
+        "text1": "50+ Noyob Dizayn Bloklari Ehtiyotkorlik bilan Kodlangan",
+        "text3": "Mobil Birinchi Dizayn Har Qanday Qurilmalarda"
+    }
+}

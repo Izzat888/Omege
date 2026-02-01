@@ -1,0 +1,26 @@
+{
+    "hero": {
+        "demos": "Demos",
+        "pages": "Pages",
+        "support": "Support"
+    },
+    "header": {
+        "title": "Enjoy every single beat on headphone!",
+        "text": "For Iphone, Ipad and Android users, be sure your product's firmware is up to date through the Bose connect app.",
+        "btn": "Add to cart"
+    },
+    "header2": {
+        "title": "Feel the music like never before",
+        "text": "High quality sound with modern design and comfort."
+    },
+    "header3": {
+        "title": "Premium sound experience",
+        "tex": "Noise cancellation and deep bass technology."
+    },
+    "nav": {
+        "title": "Get noise free sound everytime",
+        "text": "Create custom landing pages with Omega that converts more visitors than any website. With lots of unique blocks, you can easily build a page without coding.",
+        "text1": "50+ Unique Design Blocks With Carefully Coded",
+        "text3": "Mobile First Design On Every Devices"
+    }
+}
