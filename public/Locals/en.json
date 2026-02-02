@@ -22,5 +22,18 @@
         "text": "Create custom landing pages with Omega that converts more visitors than any website. With lots of unique blocks, you can easily build a page without coding.",
         "text1": "50+ Unique Design Blocks With Carefully Coded",
         "text3": "Mobile First Design On Every Devices"
+    },
+
+    "footer":{
+        "title":"Enjoy every beat. Get a new headphone.",
+        "btn": "Buy now"
+    },
+
+    "box":{
+        "title":"Omega",
+        "link1":"Support",
+        "link2":"Privacy Policy",
+        "link3":"Terms and Conditions",
+        "text":"© 2020 UXTheme, All Rights Reserved"
     }
 }
