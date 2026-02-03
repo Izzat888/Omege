@@ -8,6 +8,7 @@ import Nav from './assets/components/Nav/Nav'
 import Main from './assets/components/Main/main'
 import Section from './assets/components/Section/Section'
 import Article from './assets/components/Article/Article'
+import Aside from './assets/components/Aside/Aside'
 import Footer from './assets/components/Footer.css/Footer'
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <Main/>
       <Section/>
       <Article/>
+      <Aside/>
       <Footer/>
     </>
   )
