@@ -23,17 +23,35 @@
         "text1": "50+ Unique Design Blocks With Carefully Coded",
         "text3": "Mobile First Design On Every Devices"
     },
-
-    "footer":{
-        "title":"Enjoy every beat. Get a new headphone.",
+    "footer": {
+        "title": "Enjoy every beat. Get a new headphone.",
         "btn": "Buy now"
     },
-
-    "box":{
-        "title":"Omega",
-        "link1":"Support",
-        "link2":"Privacy Policy",
-        "link3":"Terms and Conditions",
-        "text":"© 2020 UXTheme, All Rights Reserved"
+    "box": {
+        "title": "Omega",
+        "link1": "Support",
+        "link2": "Privacy Policy",
+        "link3": "Terms and Conditions",
+        "text": "© 2020 UXTheme, All Rights Reserved"
+    },
+    "main": {
+        "title": "It’s everything you’ll ever need",
+        "text1": "50+ Unique Design Blocks",
+        "text2": "Multiple Layouts",
+        "text3": "Mobile First Design",
+        "text4": "Fully Responsive",
+        "text5": "Bootstrap 4 Framework",
+        "text6": "Humanly Support",
+        "text7": "Lifetime Updates",
+        "text8": "Rich Documentation"
+    },
+    "section": {
+        "title": "Enjoy your music",
+        "text": "Create custom landing pages with Omega that convert more visitors than any website. With lots of unique blocks, you can easily build a page without coding."
+    },
+    "article": {
+        "title": "2k+ people are using this headset",
+        "text": "Create custom landing pages with Omega that converts more visitors than any website. With lots of unique blocks, you can easily build a page without coding.",
+        "btn": "Try it now"
     }
 }

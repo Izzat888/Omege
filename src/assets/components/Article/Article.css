@@ -1,0 +1,44 @@
+.article {
+    background: url("./images/photo9.svg");
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+
+.article__container {
+    margin-top: 50px;
+    align-items: center;
+}
+
+.article__title {
+    font-family: var(--font-playfair);
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    width: 750px;
+    margin-bottom: 30px;
+}
+
+.article__text {
+    font-family: var(--font-playfair);
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 30px;
+    color: #FFFFFF;
+    width: 650px;
+    margin-bottom: 35px;
+}
+
+.article__btn {
+    width: 150px;
+    height: 55px;
+    border: none;
+    background: #ff8e53;
+    border-radius: 30px;
+    font-family: var(--font-playfair);
+    font-size: 18px;
+    font-weight: 500;
+    color: #FFFFFF;
+}

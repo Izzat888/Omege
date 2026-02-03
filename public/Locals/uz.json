@@ -26,5 +26,25 @@
     "footer": {
         "title": "Har bir ohangdan zavqlaning. Yangi naushnik xarid qiling.",
         "btn": "Hozir sotib olish"
+    },
+    "main": {
+        "title": "Sizga kerak bo‘ladigan barcha imkoniyatlar shu yerda",
+        "text1": "50+ ta noyob dizayn bloklari",
+        "text2": "Bir nechta joylashuv variantlari",
+        "text3": "Mobil qurilmalar uchun mos dizayn",
+        "text4": "To‘liq moslashuvchan (Responsive)",
+        "text5": "Bootstrap 4 framework",
+        "text6": "Insoniy va tezkor qo‘llab-quvvatlash",
+        "text7": "Umrbod yangilanishlar",
+        "text8": "Batafsil hujjatlar"
+    },
+    "section": {
+        "title": "Musiqangizdan zavqlaning",
+        "text": "Omega bilan maxsus landing sahifalar yarating va ko‘proq tashrif buyuruvchilarni jalb qiling. Ko‘plab noyob bloklar yordamida sahifani kod yozmasdan osongina yaratishingiz mumkin."
+    },
+    "article": {
+        "title": "2 mingdan ortiq odamlar ushbu naushnikdan foydalanmoqda",
+        "text": "Omega bilan maxsus landing sahifalar yarating va ko‘proq tashrif buyuruvchilarni jalb qiling. Ko‘plab noyob bloklar yordamida sahifani kod yozmasdan osongina yaratishingiz mumkin.",
+        "btn": "Hozir sinab ko‘ring"
     }
 }
