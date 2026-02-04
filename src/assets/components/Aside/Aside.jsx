@@ -2,7 +2,7 @@ import React from 'react'
 
 const Aside = () => {
   return (
-    <div>Aside</div>
+    <div><h1></h1></div>
   )
 }
 
