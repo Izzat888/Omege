@@ -19,7 +19,7 @@ const Header = () => {
     ]
 
     return (
-        <div className='header'>
+        <div className='header' data-aos="fade-up" data-aos-duration="1500">
             <div className="container">
                 <Swiper className='swipper'
                     modules={[Autoplay]}
@@ -31,7 +31,7 @@ const Header = () => {
                     {boxes.map((box, index) => (
                         <SwiperSlide key={index}>
                             <div className='header-one__box'>
-                                <div className="header__content">
+                                <div className="header__content" >
                                     <h1 className='header__title'>{box.title}</h1>
                                     <p className='header__text'>{box.text}</p>
                                     <div className='btn'>

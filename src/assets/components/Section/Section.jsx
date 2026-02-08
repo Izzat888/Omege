@@ -14,10 +14,10 @@ function Section() {
                 <p className='section__text'>{t("section.text")}</p>
                 <ul className='section__list'>
                     <li className='section__item'>
-                        <img className='section__images1' src={sec1} alt="" />
+                        <img className='section__images1' src={sec1} alt="" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine" />
                     </li>
                     <li className='section__item'>
-                        <img className='section__images2' src={sec2} alt="" />
+                        <img className='section__images2' src={sec2} alt="" data-aos="fade-left"  data-aos-offset="300" data-aos-easing="ease-in-sine" />
                     </li>
                 </ul>
             </div>

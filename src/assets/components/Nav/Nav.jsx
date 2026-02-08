@@ -11,8 +11,8 @@ const Nav = () => {
         <div className='nav'>
             <div className="container">
                 <div className="nav__container">
-                    <div className="nav__box">
-                        <h2 className='nav__title'>{t("nav.title")}</h2>
+                    <div className="nav__box" data-aos="zoom-in" data-aos-delay="300">
+                        <h2 className='nav__title' >{t("nav.title")}</h2>
                         <p className='nav__text'>{t("nav.text")}</p>
                         <ul className='nav__list'>
                             <li className='nav__item'>
@@ -25,7 +25,7 @@ const Nav = () => {
                             </li>
                         </ul>
                     </div>
-                    <img className='nav__img' src={nimg} alt="" />
+                    <img className='nav__img' src={nimg} alt="" data-aos="zoom-in-up" />
                 </div>
             </div>
         </div>

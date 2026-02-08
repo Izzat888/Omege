@@ -46,5 +46,12 @@
         "title": "2 mingdan ortiq odamlar ushbu naushnikdan foydalanmoqda",
         "text": "Omega bilan maxsus landing sahifalar yarating va ko‘proq tashrif buyuruvchilarni jalb qiling. Ko‘plab noyob bloklar yordamida sahifani kod yozmasdan osongina yaratishingiz mumkin.",
         "btn": "Hozir sinab ko‘ring"
+    },
+    "aside": {
+        "title": "Foydalanuvchilar fikri",
+        "text": "Omega yordamida ko‘proq tashrif buyuruvchilarni mijozga aylantiradigan maxsus landing sahifalar yarating.",
+        "text1": "Voy! Omega orqali yangi landing sahifaga ega bo‘lganimga ishonolmayapman. Tahrirlash va joylash juda oson ekan.",
+        "text2": "Konversiyani oshirmoqchi bo‘lgan barchaga Omegani tavsiya qilaman.",
+        "text3": "Omega menga juda ko‘p vaqtni tejab berdi! Landing sahifalar yaratish hech qachon bunchalik oson bo‘lmagan."
     }
 }

@@ -10,7 +10,7 @@ const Main = () => {
         <div className="container">
             <div className='main__container'>
                 <h3 className='main__title'>{t("main.title")}</h3>
-                <ul className='main__list'>
+                <ul className='main__list' data-aos="fade-up" data-aos-duration="2000">
                     <li className='main__item1'><p className='main-list__text'><FaPalette className='icon' size={32}/>{t("main.text1")}</p></li>
                     <li className='main__item'><p className='main-list__text'>< FaDesktop className='icon' size={32}/>{t("main.text2")}</p></li>
                     <li className='main__item'><p className='main-list__text'><FaMobileAlt className='icon' size={32}/>{t("main.text3")}</p></li>
