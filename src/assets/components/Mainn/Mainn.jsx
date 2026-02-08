@@ -2,8 +2,8 @@ import React from 'react'
 
 import { FaPalette,  FaDesktop, FaMobileAlt, FaRocket, FaHeadphonesAlt, FaHeadset, FaSyncAlt, FaRegFileAlt} from "react-icons/fa";
 import { useTranslation } from 'react-i18next'
-import "./Main.css"
-const Main = () => {
+import "./Mainn.css"
+const Mainn = () => {
     const {t} = useTranslation();
   return (
     <div className='main'>
@@ -26,4 +26,4 @@ const Main = () => {
   )
 }
 
-export default Main
+export default Mainn
